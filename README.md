@@ -1,14 +1,14 @@
 # Hi there, I'm Huzefa Ansari 👋
 
-AI & Robotics Engineering Student @ KJSCE, Somaiya Vidyavihar University.
+AI & Software Engineering Student @ KJSCE, Somaiya Vidyavihar University.
 
-### 🛠️ Languages & Tools
-- **Languages:** Python, C++
-- **Frameworks & Libraries:** PyTorch, ROS / ROS2, OpenCV, NumPy, Pandas
-- **Developer Tools:** Git, GitHub, VS Code, Linux
+### 🛠️ Tech Stack & Skills
+- **Languages:** Python, C++, SQL
+- **AI / ML & Data:** PyTorch, TensorFlow, Scikit-Learn, OpenCV, NumPy, Pandas
+- **Software & Web:** REST APIs, Git, GitHub, Linux, VS Code
 
 ### 📌 About Me
-- 🔭 Currently working on: AI and autonomous robotics software projects
-- 🌱 Currently learning: Deep Learning architectures and ROS navigation
-- 💬 Ask me about: Python, AI algorithms, and Robotics
+- 🔭 Currently building: Machine Learning models and intelligent software applications
+- 🌱 Currently learning: Deep Learning architectures, Neural Networks, and Data Pipelines
+- 💬 Ask me about: Python, Machine Learning algorithms, and Data Structures
 - 📬 How to reach me: huzefa.a@somaiya.edu
