@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Huzefa Ansari 👋
 
-<!--
-**huzefaa-ai/huzefaa-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI & Robotics Engineering Student @ KJSCE, Somaiya Vidyavihar University.
 
-Here are some ideas to get you started:
+### 🛠️ Languages & Tools
+- **Languages:** Python, C++
+- **Frameworks & Libraries:** PyTorch, ROS / ROS2, OpenCV, NumPy, Pandas
+- **Developer Tools:** Git, GitHub, VS Code, Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 About Me
+- 🔭 Currently working on: AI and autonomous robotics software projects
+- 🌱 Currently learning: Deep Learning architectures and ROS navigation
+- 💬 Ask me about: Python, AI algorithms, and Robotics
+- 📬 How to reach me: huzefa.a@somaiya.edu
